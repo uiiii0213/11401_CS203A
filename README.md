@@ -26,4 +26,4 @@ This course introduces fundamental data structures and algorithms for undergradu
 ## **劉繐慈/1133336**
 
 ## Repo description
-- 這個資料庫用來記錄上資料結構這堂課的report
+- 這個資料庫用來記錄上資料結構這堂課的學習成果
